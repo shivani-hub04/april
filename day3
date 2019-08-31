@@ -1,0 +1,51 @@
+
+#include<stdio.h>
+
+void main()
+{
+    int a,b,c;
+    printf("Enter two numbers:");
+    scanf("%d %d",&a,&b);
+    c=a+b;
+    printf("\n the sum of two nubmer is %d",c);
+    return 0;
+}
+
+
+/* next*/
+#include<stdio.h>
+
+void main()
+{
+    
+    float a,b,c;
+    
+    printf("Enter the two numbers with decimals: ");
+    scanf("%f %f",&a,&b);
+    c=a+b;
+    printf("ther sum of two numbers is : %f",c);
+    return 0;
+}
+#include<stdio.h>
+
+void main()
+{
+    int a,b,c;
+    printf("Enter two numbers:");
+    scanf("%d %d",&a,&b);
+    c=
+
+/*next*/
+
+#include<stdio.h>
+
+int main()
+{
+int a,b;
+printf("enter two numbers");
+scanf("%d %d",&a,&b);
+a>b?printf("\n %d is greater",a):("%d is greater\n",b);
+return 0;
+}
+\\next\\
+
